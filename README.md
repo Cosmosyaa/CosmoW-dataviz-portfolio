@@ -11,11 +11,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About me
-I'm Cosmo! 
-ISTJ, Aquarius
-Undergrad: Photography / Fashion Communication / Music Composition at Parsons School of Design
-Grad: Arts Management at Carnegie Mellon University
-Ask me about writing pop songs / museums / coffee / Italian food / desserts!
+- I'm Cosmo!
+- ISTJ, Aquarius
+- Undergrad: Photography / Fashion Communication / Music Composition at Parsons School of Design
+- Grad: Arts Management at Carnegie Mellon University
+- Ask me about writing pop songs / museums / coffee / Italian food / desserts!
 
 # What I hope to learn
 
@@ -23,8 +23,6 @@ Ask me about writing pop songs / museums / coffee / Italian food / desserts!
 2. Best Methodology To Get Things Clear!
 3. Tools & Software for Data Visualization
 4. Application in Different Fields
-
-- List item #3
 
 # Portfolio
 
