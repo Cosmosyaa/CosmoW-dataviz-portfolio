@@ -15,7 +15,7 @@ _You can place some of your data viz examples from the course here.  Make sure t
      <br></br>
 <p>
   Reference: <a href='https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center'>St. Patrick's Day - How are consumers celebrating? </a>   <br></br> </p>
-
+Inspiration: <a href='https://www.nytimes.com/interactive/2025/03/09/upshot/covid-lockdown-five-year-charts.html'>30 Charts That Show How Covid Changed Everything</a>
   
 <p>OpenAI. ChatGPT[used to revise grammar and guide on Tablaeu]https://chatgpt.com/
     <br></br>
