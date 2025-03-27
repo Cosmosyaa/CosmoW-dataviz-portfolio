@@ -12,13 +12,12 @@ _You can place some of your data viz examples from the course here.  Make sure t
 <div>
      <br></br>
 <p>
-  Reference: <a href='https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center'>St. Patrick's Day - How are consumers celebrating? </a>
+  Reference: <a href='https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center'>St. Patrick's Day - How are consumers celebrating? </a>   <br></br> </p>
 
-    <br></br>
-OpenAI. ChatGPT[used to revise grammar and guide on Tablaeu]https://chatgpt.com/
+  
+<p>OpenAI. ChatGPT[used to revise grammar and guide on Tablaeu]https://chatgpt.com/
     <br></br>
 </p>
-  
 </div>
 <div>
   
