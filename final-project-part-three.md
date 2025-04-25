@@ -2,6 +2,7 @@
 
 # The final data story
 <a href="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/index.html">Final Story in Shorthand</a> 
+<script src="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/embed.js"></script>
 
 
 # Changes made since Part II
