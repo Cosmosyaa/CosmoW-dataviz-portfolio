@@ -1,65 +1,121 @@
-| [home page](https://github.com/Cosmosyaa/CosmoW-dataviz-portfolio) | [data viz examples](dataviz-examples)  | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Final Project Part III</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+  </style>
+</head>
+<body>
 
-# The final data story
-<a href="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/index.html">Final Story in Shorthand</a> 
-<script src="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/embed.js"></script>
+<h2><a href="https://github.com/Cosmosyaa/CosmoW-dataviz-portfolio">Back to Home Page</a></h2>
+<h2>Portfolio Links</h2>
+<p>
+  <a href="dataviz-examples">Data Viz Examples</a> |
+  <a href="final-project-part-one">Final Project I</a> |
+  <a href="final-project-part-two">Final Project II</a> |
+  <a href="final-project-part-three">Final Project III</a>
+</p>
 
+<h1>Final Project Part III</h1>
 
-# Changes made since Part II
-> I integrated data from multiple dimensions to enrich the overall dataset and create a more nuanced, multidimensional view of consumers. Rather than relying on a static or generalized persona, I focused on illustrating who they are through their actual behaviors, preferences, and decision-making patterns.
->     
-> I believe this approach offers a more authentic and dynamic understanding of the target audience, grounded in their real data about how they relate to the products, the culture, and their habits of purchasing.
+<section>
+  <h2>The Final Data Story</h2>
+  <p>
+    <a href="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/index.html" target="_blank">View Final Story in Shorthand</a>
+  </p>
+  <script src="https://carnegiemellon.shorthandstories.com/cultural-and-creative-products-in-china/embed.js"></script>
+</section>
 
+<section>
+  <h2>Changes Made Since Part II</h2>
+  <p>
+    I integrated data from multiple dimensions to enrich the overall dataset and create a more nuanced, multidimensional view of consumers. Rather than relying on a static or generalized persona, I focused on illustrating who they are through their actual behaviors, preferences, and decision-making patterns.
+  </p>
+  <p>
+    I believe this approach offers a more authentic and dynamic understanding of the target audience, grounded in their real data about how they relate to the products, the culture, and their habits of purchasing.
+  </p>
+</section>
 
-## The audience
-> My audience consists of people working in the cultural and creative industries—whether they’re looking to develop new products, promote existing ones, seek collaborations, or work as designers.
->   
-> It also includes people from competing sectors, such as those involved in traditional souvenir product development.
->   
-> People from countries other than China working in the cultural souvenir industry can also be my audience. Since China is currently the largest market for Cultural and Creative Products, they may refer to the strategies and audience data and test their products' market. 
+<section>
+  <h2>The Audience</h2>
+  <p>
+    My audience consists of people working in the cultural and creative industries—whether developing new products, promoting existing ones, seeking collaborations, or working as designers. It also includes people from competing sectors, such as those involved in traditional souvenir product development.
+  </p>
+  <p>
+    Additionally, people from countries other than China working in the cultural souvenir industry may refer to the strategies and audience data, given that China is currently the largest market for Cultural and Creative Products.
+  </p>
+</section>
 
+<section>
+  <h2>Final Design Decisions</h2>
+  <p>
+    As for the design of graphs, I kept my design simple and used the default blue color consistently throughout the whole presentation, changing to orange when showing contrasting sides.
+  </p>
+  <p>
+    All patterns used are from AI-generated images that imitate the style I intended to reference. All product photos are sourced from an e-commerce site that offers free images for non-commercial use.
+  </p>
+  <p>
+    In Shorthand, I made some slides scrollable so that the audience first sees the visualization, followed by my brief explanation overlaying it. The conclusion section is designed to appear progressively, revealing bullet points and key highlights as the audience scrolls.
+  </p>
+</section>
 
+<section>
+  <h2>References</h2>
+  <ul>
+    <li><a href="https://unctad.org/es/isar/news/creative-china-booming-bringing-asia-along" target="_blank">UNCTAD. “Creative China Is Booming, Bringing Asia along.”</a></li>
+    <li><a href="https://zhuanlan.zhihu.com/p/654977376" target="_blank">Zhihu User. “文创产品，出海了？”</a></li>
+    <li><a href="https://baike.baidu.com/link?url=EHKjNLdsDra1sdNJCcq8H7H3fCC2EuEAkMQzuAcxpf28KvEV7pKGFMrT5YyKgDmEY5oG_6vWo3qCimIV8_aw-ifW3IfSdrxfneM35pA3ikW9tAQxsjOUPda2CLBNITY" target="_blank">Baidu Baike. “文化创意产业.”</a></li>
+    <li><a href="https://www.seedhangyan.com/detail?fid=1116819&channel=xhs" target="_blank">SeedHangYan. “文创产业正在热潮中爆发，90后主力消费群给像发布.”</a></li>
+    <li><a href="http://www.thepalacemuseumstationery.com" target="_blank">The Palace Museum Stationery</a></li>
+    <li><a href="https://www.tableau.com/" target="_blank">Tableau</a></li>
+    <li><a href="https://app.rawgraphs.io/" target="_blank">Raw Graphs</a></li>
+  </ul>
+</section>
 
-## Final design decisions
-> As for the design of graphs, I would keep my design simple and keep the default blue color consistent throughout the whole presentation, and make changes when showing an opposite side – for instance, use orange to contrast with the blue.
->   
-> All the patterns I used are from AI-generated images that imitate the style I intended to reference. All the product photos are sourced from an e-commerce site that offers free images for non-commercial use.
->   
->  In Shorthand, I made some slides scrollable so that the audience first sees the visualization, followed by my brief explanation overlaying it.
->   
-> The conclusion section is designed to appear as the audience scrolls. The bullet points and key highlights of audience groups are revealed one-by-one as they progress through my Shorthand presentation.
+<section>
+  <h2>AI Acknowledgements</h2>
+  <p>
+    OpenAI. ChatGPT. 2024. <a href="https://chat.openai.com" target="_blank">chat.openai.com</a>. [Used to revise grammar and check translation of terms].
+  </p>
+  <p>
+    Midjourney. <a href="https://midjourney.com/" target="_blank">midjourney.com</a> [Used for image generation]
+  </p>
+</section>
 
+<section>
+  <h2>Final Thoughts</h2>
+  <p>
+    Throughout the iterations of interviews, I really enjoyed gaining new insights that I hadn’t noticed myself. Many people pointed out things I had overlooked, such as how the call to action should be framed more clearly as suggestions for the industry.
+  </p>
+  <p>
+    I also applied techniques I learned from our in-class PowerPoint Karaoke exercises, like placing the conclusion of each chart in the most prominent spot. Instead of starting by introducing what data I was showing, I highlighted the conclusion at the top to make detailed information easier to grasp.
+  </p>
+  <p>
+    One regret is that during the class presentation, because of rushing and nerves, I forgot to mention that China is currently the largest market for cultural and creative products. Even though this point was included in my shorthand, I didn’t say it out loud, which might have made it harder for my classmates to relate. Still, I hope my clear explanation of the audience helped them understand the context.
+  </p>
+</section>
 
-## References
-> UNCTAD. “Creative China Is Booming, Bringing Asia along.” United Nations Conference on Trade and Development, December 6, 2023. https://unctad.org/es/isar/news/creative-china-booming-bringing-asia-along.
-
-> Zhihu User. “文创产品，出海了？” Zhihu 专栏, February 27, 2024. https://zhuanlan.zhihu.com/p/654977376.
-
-> BaiduBaike. “文化创意产业.” Accessed April 21, 2025. https://baike.baidu.com/link?url=EHKjNLdsDra1sdNJCcq8H7H3fCC2EuEAkMQzuAcxpf28KvEV7pKGFMrT5YyKgDmEY5oG_6vWo3qCimIV8_aw-ifW3IfSdrxfneM35pA3ikW9tAQxsjOUPda2CLBNITY.
-
-> SeedHangYan. “文创产业正在热潮中爆发，90后主力消费群画像发布.” Accessed April 1, 2025. https://www.seedhangyan.com/detail?fid=1116819&channel=xhs. https://www.seedhangyan.com/detail?fid=1116819&channel=xhs
-
-> The Palace Museum Stationery. Accessed April 21, 2025. http://www.thepalacemuseumstationery.com.
-
-> Tools Used:
-> Tablaeu. https://www.tableau.com/
-
-> Raw Graphs. https://app.rawgraphs.io/
-
-
-
-## AI acknowledgements
-> OpenAI. ChatGPT. 2024. https://chat.openai.com. [Used to revise grammar and check translation of terms].
-
-> Midjourney. midjourney.com [Used for image generation]
-
-
-# Final thoughts
-> Throughout some iterations of interviews, I really enjoyed gaining new insights that I hadn’t noticed myself. Many people pointed out things I had overlooked, such as how the call to action should be framed more clearly as suggestions for the industry.
->  
-> I also applied techniques I learned from our in-class PowerPoint Karaoke exercises, like placing the conclusion of each chart in the most prominent spot. I realized that when someone looks at a slide, the first thing they notice should be the core takeaway of the slide. So, instead of starting by introducing what data I was showing, I chose to highlight the conclusion at the top, making the detailed information easier to grasp at a glance.
->
-> One thing I do regret is that during the class presentation, because of rushing and nerves, I forgot to mention that China is currently the largest market for cultural and creative products. Even though this point was included in my shorthand, I didn’t actually say it out, which might made it harder for my fellow classmates to engage with my data and feel related if they are not from China. That said, I still hope that by clearly explaining who my audience is, I was able to help them better understand the context.
-
-
-
+</body>
+</html>
