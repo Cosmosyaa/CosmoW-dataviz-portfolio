@@ -21,7 +21,7 @@
 
 
 ## Final design decisions
-> I would keep my design simple and keep the default blue color consistent throughout the whole presentation, and make changes when showing an opposite side – for instance, use orange to contrast with the blue.
+> As for the design of graphs, I would keep my design simple and keep the default blue color consistent throughout the whole presentation, and make changes when showing an opposite side – for instance, use orange to contrast with the blue.
 >   
 > All the patterns I used are from AI-generated images that imitate the style I intended to reference. All the product photos are sourced from an e-commerce site that offers free images for non-commercial use.
 >   
@@ -55,8 +55,11 @@
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> Throughout some iterations of interviews, I really enjoyed gaining new insights that I hadn’t noticed myself. Many people pointed out things I had overlooked, such as how the call to action should be framed more clearly as suggestions for the industry.
+>  
+> I also applied techniques I learned from our in-class PowerPoint Karaoke exercises, like placing the conclusion of each chart in the most prominent spot. I realized that when someone looks at a slide, the first thing they notice should be the core takeaway of the slide. So, instead of starting by introducing what data I was showing, I chose to highlight the conclusion at the top, making the detailed information easier to grasp at a glance.
+>
+> One thing I do regret is that during the class presentation, because of rushing and nerves, I forgot to mention that China is currently the largest market for cultural and creative products. Even though this point was included in my shorthand, I didn’t actually say it out, which might made it harder for my fellow classmates to engage with my data and feel related if they are not from China. That said, I still hope that by clearly explaining who my audience is, I was able to help them better understand the context.
 
-Text here!
 
 
